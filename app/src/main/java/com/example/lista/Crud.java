@@ -18,4 +18,10 @@ public class Crud implements Serializable {
     public void novoItem(String item){
         list.add(item);
     }
+    public  void editarItem(){
+
+    }
+    public void deletarItem(){
+
+    }
 }
